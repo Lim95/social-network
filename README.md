@@ -27,7 +27,7 @@ The full movie file showing functionality of the application can be found [here]
 ## Usage
 ---
 1. Run `node employee-tracker.js` to start the application
-2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers
+2. Use a RESTful like the Insomnia
 
 ## Contributing
 ---
