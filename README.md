@@ -1,12 +1,11 @@
-# Employee-Tracker
+# Social Network Nosql
 
 ## Description
 ---
-A node.js application that uses user input from inquirer to populate an employee tracker database displaying members of a company.
+Social media startup I want an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data.
 
-![](images/sample.PNG)
+The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1VuyChkMJfEeIAjpHUCTaXvVM3lWC-IWZ/view)
 
-The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1lrDMBvmaQ6hoVUk9xQROcACAWRoNsF6A/view)
 ## Table of Contents
 ---
 - [Description](#description)
@@ -18,15 +17,11 @@ The full movie file showing functionality of the application can be found [here]
 
 ## Installation
 ---
-1. Run `npm install`
-2. Run `schema.sql` 
-3. Run `seeds.sql` for if you need sample
-4. Edit MySQL connection properties in the `connectionProperties` object in `employee-tracker.js`
-
+Run `npm install`
 
 ## Usage
 ---
-1. Run `node employee-tracker.js` to start the application
+1. Run `node server.js` to start the application
 2. Use a RESTful like the Insomnia
 
 ## Contributing
